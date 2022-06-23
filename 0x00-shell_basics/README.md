@@ -7,3 +7,4 @@ ls -lna list files including hidden ones in long format with numerical informati
 mkdir tmp/my_first_directory creates a new directory in the tmp directory
 movethatfile moves betty from tmp to tmp/my_first_directory
 first delete delete betty
+firstdirdelete delete my_first_directory
