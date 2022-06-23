@@ -9,3 +9,4 @@ movethatfile moves betty from tmp to tmp/my_first_directory
 first delete delete betty
 firstdirdelete delete my_first_directory
 10-back change the currebt directory to the previous one
+11-list make a great list
